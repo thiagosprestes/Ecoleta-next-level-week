@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="logo.svg" alt="ecoleta-next-level-week-01" width="120">
+  <img src="logo.svg" alt="ecoleta-next-level-week-01">
 <br>
 <br>
 Ecoleta
@@ -10,7 +10,7 @@ Ecoleta
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="homepage.png" alt="Ecoleta homepage" height="425">
+  <img src="homepage.png" alt="Ecoleta homepage">
 </div>
 
 <hr />
