@@ -25,7 +25,8 @@ Projeto desenvolvido durante a primeira edição da Next Level Week da Rocketsea
 - ⚛️ **React Js** — Front-end web
 - ⚛️ **React Native** — Aplicativo mobile
 - 💹 **Node Js** — Back-end
-- :game_die: **Knex** — SQL query builder
+- 🎲 **Knex** — SQL query builder
+- 🗺 **Leaflet** — Mapa da home no front-end
 
 ## Rodando a aplicação
 
