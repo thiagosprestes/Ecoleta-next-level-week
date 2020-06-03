@@ -10,7 +10,7 @@ Ecoleta
 
 [//]: # (Add your gifs/images here:)
 <div>
-  <img src="homepage.png" alt="Ecoleta homepage">
+  <img src="front-end.gif" alt="Ecoleta homepage">
 </div>
 
 <hr />
