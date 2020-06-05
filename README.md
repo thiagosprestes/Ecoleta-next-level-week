@@ -27,6 +27,11 @@ Projeto desenvolvido durante a primeira edição da Next Level Week da Rocketsea
 - 💹 **Node Js** — Back-end
 - 🎲 **Knex** — SQL query builder
 - 🗺 **Leaflet** — Mapa da home no front-end
+- ✅ **Celebrate** — Validações no back-end
+- 📷 **Multer** — Upload de imagens no back-end
+- 📩 **Multer** — Area de upload de imagens no front-end
+- 🗺 **React native maps** — Mapa no filtro de pontos de coléta no mobile 
+- 📋 **React native picker select** — Select de estados e cidade no mobile 
 
 ## Rodando a aplicação
 
