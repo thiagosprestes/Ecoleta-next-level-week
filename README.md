@@ -48,7 +48,7 @@ Projeto desenvolvido durante a primeira edição da Next Level Week da Rocketsea
 
 ## 🚀 Rodando o projeto
 
-A aplicação é dividida em trÊs partes, web, mobile e server, a versão web e o aplicativo mobile precisam que o server esteja sendo executado para funcionar.
+A aplicação é dividida em três partes, web, mobile e server, a versão web e o aplicativo mobile precisam que o server esteja sendo executado para funcionar.
 
 ### Pré-requisitos
 
