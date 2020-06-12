@@ -9,11 +9,11 @@ Ecoleta
 <p align="center">Aplicação com o propósito de cadastrar e buscar pontos de coleta de materiais recicláveis na sua região.</p>
 
 <div>
-  <img src="ecoleta-front-end.gif" alt="Ecoleta front-end" width="700">
-  <img src="ecoleta-mobile.gif" alt="Ecoleta mobile" width="150">
+  <img src="ecoleta-cover.png" alt="ecoleta" />
 </div>
 
-# Índice
+# 📋 Índice
+- [Telas](#-Telas)
 - [Sobre o projeto](#-Sobre-o-projeto)
 - [Tecnologias utilizadas](#-Tecnologias-utilizadas)
 - [Rodando o projeto](#-Rodando-o-projeto)
@@ -21,6 +21,13 @@ Ecoleta
   - [Rodando o server](#-Rodando-o-server)
   - [Rodando a versão web](#-Rodando-a-versão-web)
   - [Rodando o aplicativo mobile](#-Rodando-o-aplicativo-mobile)
+
+## 🎨 Telas
+
+<div align="center">  
+  <img src="ecoleta-mobile.gif" alt="Ecoleta mobile" width="200">
+  <img src="ecoleta-front-end.gif" alt="Ecoleta front-end" >
+</div>
 
 ## 📃 Sobre o projeto
 
