@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="logo.svg" alt="ecoleta-next-level-week-01">
+  <img src="logo.svg" alt="ecoleta-next-level-week-01" width="300">
 <br>
 <br>
 Ecoleta
@@ -34,7 +34,6 @@ Ecoleta
 Projeto desenvolvido durante a primeira edição da Next Level Week da Rocketseat, onde criamos uma aplicação completa para cadastro e busca de locais que fornecem pontos de coleta de materiais recicláveis em determinada região. A aplicação foi desenvolvida utilizando backend em node, frontend em react e aplicativo mobile em react native.
 
 ## 🛠 Tecnologias utilizadas
-
 - ⚛️ **React Js** — Front-end web
 - ⚛️ **React Native** — Aplicativo mobile
 - 💹 **Node Js** — Back-end
